@@ -1,15 +1,12 @@
 +++
 date = '2025-12-04T09:52:27+07:00'
 draft = true
-title = ''
+title= "Infectious Disease Program Repository"
+weight= 1
 +++
 
----
-title: "Infectious Disease Program Repository"
-weight: 1
----
 
-Welcome to the **Infectious Disease Program Repository**.
+## Welcome to the **Infectious Disease Program Repository**.
 
 This site serves as a consolidated space for collecting:
 
