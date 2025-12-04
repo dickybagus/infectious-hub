@@ -1,0 +1,12 @@
+baseURL = 'https://dickybagus.github.io/infectious-hub'
+languageCode = 'en-us'
+title = 'Infectious Disease Hub'
+theme = 'book'
+publishDir = 'docs'
+
+[params]
+  BookTheme = 'auto'   # bisa 'light', 'dark', atau 'auto'
+  BookToC = true       # Table of Contents di sidebar kanan
+  BookSection = 'docs' # folder utama konten buku: content/docs
+
+  

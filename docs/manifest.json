@@ -1,0 +1,15 @@
+{
+  "name": "Infectious Disease Hub",
+  "short_name": "Infectious Disease Hub",
+  "start_url": "/infectious-hub/",
+  "scope": "/infectious-hub/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/infectious-hub/favicon.svg",
+      "sizes": "512x512"
+    }
+  ]
+}
