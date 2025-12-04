@@ -6,81 +6,70 @@ weight= 1
 +++
 
 
-## Welcome to the **Infectious Disease Program Repository**.
+Welcome to the **Infectious Disease Reference Hub** — a curated and organised repository of essential guidelines, SOPs, manuals, tools, and references for infectious disease programmes.
 
-This site serves as a consolidated space for collecting:
+This site is designed to make widely scattered documents easier to find and use.  
+It does **not** rewrite or interpret clinical guidelines. Instead, it provides:
 
-- simplified summaries of infectious disease programs,
-- key technical concepts,
-- and **links to official documents and guidelines** scattered across various sources (WHO, national programs, CDC, journals, etc.).
+- a **central access point** for national and international references,
+- a **clean, searchable index** of programme-specific documents,
+- quick summaries to understand **purpose**, **audience**, and **use case**
+  for each document,
+- and direct links to the **official sources**.
 
-The main purpose of this repository is to:
+---
 
-> **Reduce the time spent searching across multiple platforms and provide quick access to essential information needed in infectious disease work.**
+## 🎯 Why This Website Exists
+
+Public health and infectious disease work relies on documents that are often:
+
+- distributed across multiple platforms,  
+- shared informally through chats and emails,  
+- outdated or replaced without notice,  
+- difficult to locate when urgently needed.
+
+This hub provides a **streamlined way** to access up-to-date documents across multiple disease programmes.
 
 
-## 🎯 Scope of the Repository
+---
 
-This repository currently focuses on the following areas:
+## 📚 What You Will Find Here
 
-- **Tuberculosis (TB)**  
-  Overview of global and national programs, diagnostic algorithms, ACF/ICF strategies, and key program indicators.
+The repository is organised into practical categories:
 
+- **TB Guidelines**  
 - **ILI–SARI & Respiratory Surveillance**  
-  Case definitions, sentinel surveillance design, workflow at health facilities, and laboratory logistics.
+- **AMR Resources**  
+- **Laboratory & Biosafety Manuals**  
+- **Surveillance & Monitoring Guidance**  
+- **Tools & Forms**  
+- **Data Dashboards**  
+- **Reference Library**
 
-- **Antimicrobial Resistance (AMR)**  
-  Core concepts, antimicrobial stewardship (AMS), and resistance surveillance frameworks.
+Each category contains:
 
-- **Laboratory & Biosafety**  
-  Specimen management, biosafety principles, logistics, chain of custody, and laboratory–program coordination.
+- brief descriptions (1–2 lines)  
+- official links  
+- optional tags for quick filtering  
 
-- **Surveillance & Data**  
-  Key indicators, program monitoring, dashboards, and practical approaches to data analysis.
+---
 
-- **Reference Library & Key Documents**  
-  A curated collection of links to guidelines, SOPs, technical documents, and useful resources from verified authorities.
+## 🔍 How to Use This Portal
 
+- Use the **left sidebar** to navigate programme areas.  
+- Use the **search bar** to find documents by name, keyword, or topic.  
+- Every page contains a list of documents, each with:
+  - **Title**
+  - **Short Description**
+  - **Source Link**
+  - (Optional) Version / year
 
-## 📚 How to Use This Repository
+---
 
-The structure of this site is designed to be:
+## 📄 Disclaimer
 
-- **quick to navigate**, and  
-- **flexible**, allowing expansion as programs evolve.
+This repository is **not an official publication** of any organisation.  
+It is compiled for educational and operational convenience.
 
-You may use this repository in the following ways:
+Always refer to the **official website** or source for the most updated version of any guideline.
 
-1. **Navigate through the left sidebar**  
-   Each section (TB, ILI–SARI, AMR, Lab, Surveillance, References) contains topic-specific pages.  
-   Examples:  
-   _“TB → TB Diagnosis”_ or _“Lab → Specimen Handling”_.
-
-2. **Use the search bar**  
-   Type keywords like `Xpert`, `ACF`, `ILI`, `biosafety`, `indicators`.
-
-3. **Check the “Links & References” section on each page**  
-   Each topic will include curated links to:
-   - national guidelines,  
-   - WHO/CDC documents,  
-   - and other validated resources.  
-   This makes the repository a **map to the original authoritative documents**, not a replacement for them.
-
-4. **Treat this site as a quick reference, not a formal source**  
-   Summaries here are meant for:
-   - reminders,  
-   - field notes,  
-   - and rapid access during program implementation.  
-   For clinical or policy decisions, always refer to the latest official documents.
-
-
-## ⚠️ Disclaimer
-
-- This repository is **not an official document** of any organization.  
-- Content is compiled as **personal and professional working notes** for managing infectious disease programs, surveillance, and laboratory workflows.  
-- While every effort is made to ensure accuracy, always confirm:
-  - the latest national guidelines,
-  - official WHO updates,
-  - and local policies and instructions.
-
-If you find outdated links, missing documents, or areas that need improvement, feel free to mark them — a revision log will be added later.

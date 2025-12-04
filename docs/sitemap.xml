@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/infectious-hub/</loc>
-    <lastmod>2025-12-04T09:52:27+07:00</lastmod>
+    <loc>https://dickybagus.github.io/infectious-hub/tb/</loc>
+    <lastmod>2025-12-04T10:30:18+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/infectious-hub/categories/</loc>
+    <loc>https://dickybagus.github.io/infectious-hub/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/infectious-hub/tags/</loc>
+    <loc>https://dickybagus.github.io/infectious-hub/tags/</loc>
   </url>
 </urlset>
